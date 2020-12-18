@@ -1,0 +1,404 @@
+12/11/2020 02:22:31 PM: INFO: ---------------------- Test_001_Login ----------------------
+12/11/2020 02:22:31 PM: INFO: ********************** Verify Home Page Title **********************
+12/11/2020 02:22:33 PM: INFO: ********************** Home page Title test is passed **********************
+12/11/2020 02:22:36 PM: INFO: ********************** Verify Login Test **********************
+12/11/2020 02:22:42 PM: INFO: ********************** Login test is passed **********************
+l12/11/2020 03:06:55 PM: INFO: ---------------------- Test_001_Login ----------------------
+12/11/2020 03:06:55 PM: INFO: ********************** Verify Home Page Title **********************
+12/11/2020 03:06:59 PM: INFO: ********************** Home page Title test is passed **********************
+12/11/2020 03:07:04 PM: INFO: ********************** Verify Login Test **********************
+12/11/2020 03:07:12 PM: INFO: ********************** Login test is passed **********************
+12/11/2020 03:10:48 PM: INFO: ********************** Verify Login Test **********************
+12/11/2020 03:10:48 PM: INFO: ********************** Verify Home Page Title **********************
+12/11/2020 03:10:51 PM: INFO: ********************** Home page Title test is passed **********************
+12/11/2020 03:10:56 PM: INFO: ********************** Login test is passed **********************
+12/11/2020 03:20:46 PM: INFO: ---------------------- Test_001_Login ----------------------
+12/11/2020 03:20:46 PM: INFO: ********************** Verify Home Page Title **********************
+12/11/2020 03:20:46 PM: INFO: ********************** Verify Login Test **********************
+12/11/2020 03:20:48 PM: INFO: ********************** Home page Title test is passed **********************
+12/11/2020 03:20:54 PM: INFO: ********************** Login test is passed **********************
+12/11/2020 03:56:10 PM: INFO: ********************** Verify Login Test **********************
+12/11/2020 03:56:10 PM: INFO: ********************** Verify Home Page Title **********************
+12/11/2020 03:56:13 PM: INFO: ********************** Home page Title test is passed **********************
+12/11/2020 03:56:16 PM: INFO: ********************** Login test is passed **********************
+12/11/2020 06:12:55 PM: INFO: ---------------------- Test_002_DDT_Login ----------------------
+12/11/2020 06:15:45 PM: INFO: ---------------------- Test_002_DDT_Login ----------------------
+12/11/2020 06:23:12 PM: INFO: ---------------------- Test_002_DDT_Login ----------------------
+12/11/2020 06:23:22 PM: INFO: *** Pass ***
+12/11/2020 06:23:29 PM: INFO: *** Pass ***
+12/11/2020 06:23:34 PM: INFO: *** Pass ***
+12/11/2020 06:23:40 PM: INFO: *** Pass ***
+12/11/2020 06:23:40 PM: INFO: *** Login DDT test passed ***
+12/12/2020 05:10:00 PM: INFO: ************* Test_003_AddCustomer **********
+12/12/2020 05:10:07 PM: INFO: ************* Login succesful **********
+12/12/2020 05:10:07 PM: INFO: ******* Starting Add Customer Test **********
+12/12/2020 05:18:15 PM: INFO: ************* Test_003_AddCustomer **********
+12/12/2020 05:18:23 PM: INFO: ************* Login succesful **********
+12/12/2020 05:18:23 PM: INFO: ******* Starting Add Customer Test **********
+12/12/2020 05:50:28 PM: INFO: ************* SearchCustomerByEmail_004 **********
+12/12/2020 05:50:36 PM: INFO: ************* Login succesful **********
+12/12/2020 05:50:36 PM: INFO: ******* Starting Search Customer By Email **********
+12/12/2020 05:51:30 PM: INFO: ************* SearchCustomerByEmail_004 **********
+12/12/2020 05:51:39 PM: INFO: ************* Login succesful **********
+12/12/2020 05:51:39 PM: INFO: ******* Starting Search Customer By Email **********
+12/12/2020 05:51:42 PM: INFO: ************* searching customer by emailID **********
+12/12/2020 05:51:47 PM: INFO: ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+12/12/2020 05:56:02 PM: INFO: ************* SearchCustomerByName_005 **********
+12/12/2020 05:56:11 PM: INFO: ************* Login successful **********
+12/12/2020 05:56:11 PM: INFO: ******* Starting Search Customer By Name **********
+12/12/2020 05:56:40 PM: INFO: ************* SearchCustomerByName_005 **********
+12/12/2020 05:56:48 PM: INFO: ************* Login successful **********
+12/12/2020 05:56:48 PM: INFO: ******* Starting Search Customer By Name **********
+12/12/2020 05:56:52 PM: INFO: ************* searching customer by Name **********
+12/12/2020 05:56:57 PM: INFO: ***************  TC_SearchCustomerByName_005 Finished  *********** 
+12/12/2020 07:50:52 PM: INFO: ************* SearchCustomerByName_005 **********
+12/12/2020 07:51:00 PM: INFO: ************* Login successful **********
+12/12/2020 07:51:00 PM: INFO: ******* Starting Search Customer By Name **********
+12/12/2020 07:51:04 PM: INFO: ************* searching customer by Name **********
+12/12/2020 07:51:10 PM: INFO: ***************  TC_SearchCustomerByName_005 Finished  *********** 
+12/12/2020 07:52:38 PM: INFO: ************* Test_003_AddCustomer **********
+12/12/2020 07:52:47 PM: INFO: ************* Login succesful **********
+12/12/2020 07:52:47 PM: INFO: ******* Starting Add Customer Test **********
+12/12/2020 07:52:50 PM: INFO: ************* Providing customer info **********
+12/12/2020 07:53:00 PM: INFO: ---------------------- Test_001_Login ----------------------
+12/12/2020 07:53:00 PM: INFO: ********************** Verify Home Page Title **********************
+12/12/2020 07:53:02 PM: INFO: ********************** Home page Title test is passed **********************
+12/12/2020 07:54:02 PM: INFO: ************* Test_003_AddCustomer **********
+12/12/2020 07:54:10 PM: INFO: ************* Login succesful **********
+12/12/2020 07:54:10 PM: INFO: ******* Starting Add Customer Test **********
+12/12/2020 07:54:14 PM: INFO: ************* Providing customer info **********
+12/12/2020 07:54:24 PM: INFO: ---------------------- Test_001_Login ----------------------
+12/12/2020 07:54:24 PM: INFO: ********************** Verify Home Page Title **********************
+12/12/2020 07:54:27 PM: INFO: ********************** Home page Title test is passed **********************
+12/12/2020 07:55:51 PM: INFO: ************* Test_003_AddCustomer **********
+12/12/2020 07:55:59 PM: INFO: ************* Login succesful **********
+12/12/2020 07:55:59 PM: INFO: ******* Starting Add Customer Test **********
+12/12/2020 07:56:02 PM: INFO: ************* Providing customer info **********
+12/12/2020 07:56:14 PM: INFO: ---------------------- Test_001_Login ----------------------
+12/12/2020 07:56:14 PM: INFO: ********************** Verify Home Page Title **********************
+12/12/2020 07:56:16 PM: INFO: ********************** Home page Title test is passed **********************
+12/12/2020 08:01:07 PM: INFO: ************* Test_003_AddCustomer **********
+12/12/2020 08:01:15 PM: INFO: ************* Login succesful **********
+12/12/2020 08:01:15 PM: INFO: ******* Starting Add Customer Test **********
+12/12/2020 08:01:17 PM: INFO: ************* Providing customer info **********
+12/12/2020 08:01:30 PM: INFO: ************* Saving customer info **********
+12/12/2020 08:01:30 PM: INFO: ********* Add customer validation started *****************
+12/12/2020 08:01:30 PM: INFO: ********* Add customer Test Passed *********
+12/12/2020 08:01:30 PM: INFO: ******* Ending Add customer test **********
+12/12/2020 08:01:33 PM: INFO: ---------------------- Test_001_Login ----------------------
+12/12/2020 08:01:33 PM: INFO: ********************** Verify Home Page Title **********************
+12/12/2020 08:01:35 PM: INFO: ********************** Home page Title test is passed **********************
+12/12/2020 08:01:47 PM: INFO: ************* Test_003_AddCustomer **********
+12/12/2020 08:01:55 PM: INFO: ************* Login succesful **********
+12/12/2020 08:01:55 PM: INFO: ******* Starting Add Customer Test **********
+12/12/2020 08:01:58 PM: INFO: ************* Providing customer info **********
+12/12/2020 08:02:10 PM: INFO: ---------------------- Test_001_Login ----------------------
+12/12/2020 08:02:10 PM: INFO: ********************** Verify Home Page Title **********************
+12/12/2020 08:02:11 PM: INFO: ********************** Home page Title test is passed **********************
+12/12/2020 08:56:44 PM: INFO: ---------------------- Test_001_Login ----------------------
+12/12/2020 08:56:44 PM: INFO: ********************** Verify Home Page Title **********************
+12/15/2020 11:13:53 AM: INFO: ************* Test_003_AddCustomer **********
+12/15/2020 11:14:00 AM: INFO: ************* Login successful **********
+12/15/2020 11:14:00 AM: INFO: ******* Starting Add Customer Test **********
+12/15/2020 11:17:14 AM: INFO: ************* Test_003_AddCustomer **********
+12/15/2020 11:17:22 AM: INFO: ************* Login successful **********
+12/15/2020 11:17:22 AM: INFO: ******* Starting Add Customer Test **********
+12/15/2020 11:55:55 AM: INFO: ************* Test_003_AddCustomer **********
+12/15/2020 11:56:00 AM: INFO: ************* Login successful **********
+12/15/2020 11:56:00 AM: INFO: ******* Starting Add Customer Test **********
+12/15/2020 11:56:01 AM: INFO: ************* Providing customer info **********
+12/15/2020 11:56:12 AM: INFO: ************* Saving customer info **********
+12/15/2020 11:56:12 AM: INFO: ********* Add customer validation started *****************
+12/15/2020 11:56:12 AM: INFO: ********* Add customer Test Passed *********
+12/15/2020 11:56:12 AM: INFO: ******* Ending Add customer test **********
+12/15/2020 11:56:48 AM: INFO: ************* Test_003_AddCustomer **********
+12/15/2020 11:56:56 AM: INFO: ************* Login successful **********
+12/15/2020 11:56:56 AM: INFO: ******* Starting Add Customer Test **********
+12/15/2020 11:56:57 AM: INFO: ************* Providing customer info **********
+12/15/2020 12:51:11 PM: INFO: ************* Test_003_AddCustomer **********
+12/15/2020 12:51:19 PM: INFO: ************* Login successful **********
+12/15/2020 12:51:19 PM: INFO: ******* Starting Add Customer Test **********
+12/15/2020 12:51:21 PM: INFO: ************* Providing customer info **********
+12/15/2020 12:51:52 PM: INFO: ************* Test_003_AddCustomer **********
+12/15/2020 12:52:00 PM: INFO: ************* Login successful **********
+12/15/2020 12:52:00 PM: INFO: ******* Starting Add Customer Test **********
+12/15/2020 12:52:01 PM: INFO: ************* Providing customer info **********
+12/15/2020 12:52:17 PM: INFO: ************* Saving customer info **********
+12/15/2020 12:52:17 PM: INFO: ********* Add customer validation started *****************
+12/15/2020 12:52:17 PM: INFO: ********* Add customer Test Passed *********
+12/15/2020 12:52:17 PM: INFO: ******* Ending Add customer test **********
+12/15/2020 12:52:39 PM: INFO: ************* Test_003_AddCustomer **********
+12/15/2020 12:52:44 PM: INFO: ************* Login successful **********
+12/15/2020 12:52:44 PM: INFO: ******* Starting Add Customer Test **********
+12/15/2020 12:52:46 PM: INFO: ************* Providing customer info **********
+12/15/2020 12:52:57 PM: INFO: ************* Saving customer info **********
+12/15/2020 12:52:57 PM: INFO: ********* Add customer validation started *****************
+12/15/2020 12:52:57 PM: INFO: ********* Add customer Test Passed *********
+12/15/2020 12:52:57 PM: INFO: ******* Ending Add customer test **********
+12/15/2020 07:21:24 PM: INFO: ************* SearchCustomerByName_005 **********
+12/15/2020 07:21:31 PM: INFO: ************* Login successful **********
+12/15/2020 07:21:31 PM: INFO: ******* Starting Search Customer By Name **********
+12/15/2020 07:21:35 PM: INFO: ************* searching customer by Name **********
+12/15/2020 07:21:40 PM: INFO: ***************  TC_SearchCustomerByName_005 Finished  *********** 
+12/16/2020 11:00:04 AM: INFO: ************* TC_SearchOrdersByEmail_006 **********
+12/16/2020 11:00:12 AM: INFO: ************* Login successful **********
+12/16/2020 11:00:12 AM: INFO: ******* Navigating to Orders Page **********
+12/16/2020 11:00:13 AM: INFO: ******* Successfully landed on Orders Page **********
+12/16/2020 11:00:13 AM: INFO: ******* Searching Orders By Email **********
+12/16/2020 11:02:04 AM: INFO: ************* TC_SearchOrdersByEmail_006 **********
+12/16/2020 11:02:12 AM: INFO: ************* Login successful **********
+12/16/2020 11:02:12 AM: INFO: ******* Navigating to Orders Page **********
+12/16/2020 11:02:14 AM: INFO: ******* Successfully landed on Orders Page **********
+12/16/2020 11:02:14 AM: INFO: ******* Searching Orders By Email **********
+12/16/2020 11:04:54 AM: INFO: ************* TC_SearchOrdersByEmail_006 **********
+12/16/2020 11:05:02 AM: INFO: ************* Login successful **********
+12/16/2020 11:05:02 AM: INFO: ******* Navigating to Orders Page **********
+12/16/2020 11:05:04 AM: INFO: ******* Successfully landed on Orders Page **********
+12/16/2020 11:05:04 AM: INFO: ******* Searching Orders By Email **********
+12/16/2020 11:08:23 AM: INFO: ************* TC_SearchOrdersByEmail_006 **********
+12/16/2020 11:08:30 AM: INFO: ************* Login successful **********
+12/16/2020 11:08:30 AM: INFO: ******* Navigating to Orders Page **********
+12/16/2020 11:08:31 AM: INFO: ******* Successfully landed on Orders Page **********
+12/16/2020 11:08:31 AM: INFO: ******* Searching Orders By Email **********
+12/16/2020 11:12:56 AM: INFO: ************* TC_SearchOrdersByEmail_006 **********
+12/16/2020 11:13:02 AM: INFO: ************* Login successful **********
+12/16/2020 11:13:02 AM: INFO: ******* Navigating to Orders Page **********
+12/16/2020 11:13:03 AM: INFO: ******* Successfully landed on Orders Page **********
+12/16/2020 11:13:03 AM: INFO: ******* Searching Orders By Email **********
+12/16/2020 11:13:32 AM: INFO: ************* TC_SearchOrdersByEmail_006 **********
+12/16/2020 11:13:39 AM: INFO: ************* Login successful **********
+12/16/2020 11:13:39 AM: INFO: ******* Navigating to Orders Page **********
+12/16/2020 11:13:40 AM: INFO: ******* Successfully landed on Orders Page **********
+12/16/2020 11:13:40 AM: INFO: ******* Searching Orders By Email **********
+12/16/2020 05:09:54 PM: INFO: ************* TC_searchProductsByName_007 **********
+12/16/2020 05:10:03 PM: INFO: ************* Login successful **********
+12/16/2020 05:10:03 PM: INFO: ************* Navigating to Products Page **********
+12/16/2020 05:10:41 PM: INFO: ************* TC_searchProductsByName_007 **********
+12/16/2020 05:10:49 PM: INFO: ************* Login successful **********
+12/16/2020 05:10:49 PM: INFO: ************* Navigating to Products Page **********
+12/16/2020 05:10:50 PM: INFO: ************* Search for product **********
+12/16/2020 05:12:12 PM: INFO: ************* TC_searchProductsByName_007 **********
+12/16/2020 05:12:19 PM: INFO: ************* Login successful **********
+12/16/2020 05:12:19 PM: INFO: ************* Navigating to Products Page **********
+12/16/2020 05:12:21 PM: INFO: ************* Search for product **********
+12/16/2020 05:13:32 PM: INFO: ************* TC_searchProductsByName_007 **********
+12/16/2020 05:13:40 PM: INFO: ************* Login successful **********
+12/16/2020 05:13:40 PM: INFO: ************* Navigating to Products Page **********
+12/16/2020 05:13:41 PM: INFO: ************* Search for product **********
+12/16/2020 05:14:49 PM: INFO: ************* TC_searchProductsByName_007 **********
+12/16/2020 05:15:18 PM: INFO: ************* TC_searchProductsByName_007 **********
+12/16/2020 05:15:26 PM: INFO: ************* Login successful **********
+12/16/2020 05:15:26 PM: INFO: ************* Navigating to Products Page **********
+12/16/2020 05:15:27 PM: INFO: ************* Search for product **********
+12/16/2020 05:17:45 PM: INFO: ************* TC_searchProductsByName_007 **********
+12/16/2020 05:17:52 PM: INFO: ************* Login successful **********
+12/16/2020 05:17:52 PM: INFO: ************* Navigating to Products Page **********
+12/16/2020 05:17:53 PM: INFO: ************* Search for product **********
+12/16/2020 05:17:55 PM: INFO: ************* TC_searchProductsByName_007 Finished **********
+12/16/2020 05:18:51 PM: INFO: ************* TC_searchProductsByName_007 **********
+12/16/2020 05:18:59 PM: INFO: ************* Login successful **********
+12/16/2020 05:18:59 PM: INFO: ************* Navigating to Products Page **********
+12/16/2020 05:19:00 PM: INFO: ************* Search for product **********
+12/16/2020 05:19:00 PM: INFO: ************* TC_searchProductsByName_007 Finished **********
+12/16/2020 05:19:08 PM: INFO: ************* TC_searchProductsByName_007 **********
+12/16/2020 05:19:13 PM: INFO: ************* Login successful **********
+12/16/2020 05:19:13 PM: INFO: ************* Navigating to Products Page **********
+12/16/2020 05:19:15 PM: INFO: ************* Search for product **********
+12/16/2020 05:19:15 PM: INFO: ************* TC_searchProductsByName_007 Finished **********
+12/16/2020 05:19:33 PM: INFO: ************* TC_searchProductsByName_007 **********
+12/16/2020 05:19:41 PM: INFO: ************* Login successful **********
+12/16/2020 05:19:41 PM: INFO: ************* Navigating to Products Page **********
+12/16/2020 05:19:42 PM: INFO: ************* Search for product **********
+12/16/2020 05:19:48 PM: INFO: ************* TC_searchProductsByName_007 Finished **********
+12/17/2020 12:35:41 PM: INFO: ************* TC_searchProductsByName_007 **********
+12/17/2020 12:35:49 PM: INFO: ************* Login successful **********
+12/17/2020 12:35:49 PM: INFO: ************* Navigating to Products Page **********
+12/17/2020 12:35:50 PM: INFO: ************* Search for product **********
+12/17/2020 12:35:51 PM: INFO: ************* TC_searchProductsByName_007 Finished **********
+12/17/2020 12:36:00 PM: INFO: ************* TC_searchProductsByName_007 **********
+12/17/2020 12:36:08 PM: INFO: ************* Login successful **********
+12/17/2020 12:36:08 PM: INFO: ************* Navigating to Products Page **********
+12/17/2020 12:36:10 PM: INFO: ************* Search for product **********
+12/17/2020 12:36:10 PM: INFO: ************* TC_searchProductsByName_007 Finished **********
+12/17/2020 04:10:38 PM: INFO: ************* TC_searchProductsByName_007 **********
+12/17/2020 04:10:48 PM: INFO: ************* Login successful **********
+12/17/2020 04:10:48 PM: INFO: ************* Navigating to Products Page **********
+12/17/2020 04:10:54 PM: INFO: ************* Search for product **********
+12/17/2020 04:10:54 PM: INFO: ************* TC_searchProductsByName_007 Finished **********
+12/17/2020 04:11:18 PM: INFO: ************* TC_searchProductsByName_007 **********
+12/17/2020 04:11:28 PM: INFO: ************* Login successful **********
+12/17/2020 04:11:28 PM: INFO: ************* Navigating to Products Page **********
+12/17/2020 04:11:31 PM: INFO: ************* Search for product **********
+12/17/2020 04:11:31 PM: INFO: ************* TC_searchProductsByName_007 Finished **********
+12/17/2020 04:36:05 PM: INFO: ************* TC_addCategory_008 **********
+12/17/2020 04:36:12 PM: INFO: ************* Login successful **********
+12/17/2020 04:36:12 PM: INFO: ************* Navigating to Catalog Page **********
+12/17/2020 04:36:39 PM: INFO: ************* TC_addCategory_008 **********
+12/17/2020 04:36:46 PM: INFO: ************* Login successful **********
+12/17/2020 04:36:46 PM: INFO: ************* Navigating to Catalog Page **********
+12/17/2020 04:36:46 PM: INFO: ************* Navigating to Categories Page **********
+12/17/2020 04:58:44 PM: INFO: ************* TC_addCategory_008 **********
+12/17/2020 04:58:51 PM: INFO: ************* Login successful **********
+12/17/2020 04:58:51 PM: INFO: ************* Navigating to Catalog Page **********
+12/17/2020 04:58:51 PM: INFO: ************* Navigating to Categories Page **********
+12/17/2020 05:33:08 PM: INFO: ************* TC_addCategory_008 **********
+12/17/2020 05:33:15 PM: INFO: ************* Login successful **********
+12/17/2020 05:33:15 PM: INFO: ************* Navigating to Catalog Page **********
+12/17/2020 05:33:15 PM: INFO: ************* Navigating to Categories Page **********
+12/17/2020 06:19:06 PM: INFO: ************* TC_addCategory_008 **********
+12/17/2020 06:19:14 PM: INFO: ************* Login successful **********
+12/17/2020 06:19:14 PM: INFO: ************* Navigating to Catalog Page **********
+12/17/2020 06:19:14 PM: INFO: ************* Navigating to Categories Page **********
+12/17/2020 06:19:55 PM: INFO: ************* TC_addCategory_008 **********
+12/17/2020 06:20:02 PM: INFO: ************* Login successful **********
+12/17/2020 06:20:02 PM: INFO: ************* Navigating to Catalog Page **********
+12/17/2020 06:20:02 PM: INFO: ************* Navigating to Categories Page **********
+12/17/2020 06:21:38 PM: INFO: ************* TC_addCategory_008 **********
+12/17/2020 06:21:46 PM: INFO: ************* Login successful **********
+12/17/2020 06:21:46 PM: INFO: ************* Navigating to Catalog Page **********
+12/17/2020 06:21:46 PM: INFO: ************* Navigating to Categories Page **********
+12/18/2020 03:13:20 PM: INFO: ************* TC_addCategory_008 **********
+12/18/2020 03:13:28 PM: INFO: ************* Login successful **********
+12/18/2020 03:13:28 PM: INFO: ************* Navigating to Catalog Page **********
+12/18/2020 03:13:28 PM: INFO: ************* Navigating to Categories Page **********
+12/18/2020 03:50:44 PM: INFO: ************* TC_addCategory_008 **********
+12/18/2020 03:50:52 PM: INFO: ************* Login successful **********
+12/18/2020 03:50:52 PM: INFO: ************* Navigating to Catalog Page **********
+12/18/2020 03:50:52 PM: INFO: ************* Navigating to Categories Page **********
+12/18/2020 04:04:52 PM: INFO: ************* TC_addCategory_008 **********
+12/18/2020 04:05:01 PM: INFO: ************* Login successful **********
+12/18/2020 04:05:01 PM: INFO: ************* Navigating to Catalog Page **********
+12/18/2020 04:05:01 PM: INFO: ************* Navigating to Categories Page **********
+12/18/2020 04:11:58 PM: INFO: ************* TC_addCategory_008 **********
+12/18/2020 04:12:07 PM: INFO: ************* Login successful **********
+12/18/2020 04:12:07 PM: INFO: ************* Navigating to Catalog Page **********
+12/18/2020 04:12:07 PM: INFO: ************* Navigating to Categories Page **********
+12/18/2020 04:13:45 PM: INFO: ************* TC_addCategory_008 **********
+12/18/2020 04:13:53 PM: INFO: ************* Login successful **********
+12/18/2020 04:13:53 PM: INFO: ************* Navigating to Catalog Page **********
+12/18/2020 04:13:53 PM: INFO: ************* Navigating to Categories Page **********
+12/18/2020 04:26:52 PM: INFO: ************* TC_addCategory_008 **********
+12/18/2020 04:27:01 PM: INFO: ************* Login successful **********
+12/18/2020 04:27:01 PM: INFO: ************* Navigating to Catalog Page **********
+12/18/2020 04:27:01 PM: INFO: ************* Navigating to Categories Page **********
+12/18/2020 04:28:27 PM: INFO: ************* TC_addCategory_008 **********
+12/18/2020 04:28:34 PM: INFO: ************* Login successful **********
+12/18/2020 04:28:34 PM: INFO: ************* Navigating to Catalog Page **********
+12/18/2020 04:28:34 PM: INFO: ************* Navigating to Categories Page **********
+12/18/2020 04:30:33 PM: INFO: ************* TC_addCategory_008 **********
+12/18/2020 04:30:42 PM: INFO: ************* Login successful **********
+12/18/2020 04:30:42 PM: INFO: ************* Navigating to Catalog Page **********
+12/18/2020 04:30:42 PM: INFO: ************* Navigating to Categories Page **********
+12/18/2020 04:33:07 PM: INFO: ************* TC_addCategory_008 **********
+12/18/2020 04:33:15 PM: INFO: ************* Login successful **********
+12/18/2020 04:33:15 PM: INFO: ************* Navigating to Catalog Page **********
+12/18/2020 04:33:15 PM: INFO: ************* Navigating to Categories Page **********
+12/18/2020 04:39:11 PM: INFO: ************* TC_addCategory_008 **********
+12/18/2020 04:39:18 PM: INFO: ************* Login successful **********
+12/18/2020 04:39:18 PM: INFO: ************* Navigating to Catalog Page **********
+12/18/2020 04:39:18 PM: INFO: ************* Navigating to Categories Page **********
+12/18/2020 04:40:44 PM: INFO: ************* TC_addCategory_008 **********
+12/18/2020 04:40:51 PM: INFO: ************* Login successful **********
+12/18/2020 04:40:51 PM: INFO: ************* Navigating to Catalog Page **********
+12/18/2020 04:40:51 PM: INFO: ************* Navigating to Categories Page **********
+12/18/2020 04:42:43 PM: INFO: ************* TC_addCategory_008 **********
+12/18/2020 04:42:50 PM: INFO: ************* Login successful **********
+12/18/2020 04:42:50 PM: INFO: ************* Navigating to Catalog Page **********
+12/18/2020 04:42:50 PM: INFO: ************* Navigating to Categories Page **********
+12/18/2020 05:25:18 PM: INFO: ************* TC_addCategory_008 **********
+12/18/2020 05:25:26 PM: INFO: ************* Login successful **********
+12/18/2020 05:25:26 PM: INFO: ************* Navigating to Catalog Page **********
+12/18/2020 05:25:26 PM: INFO: ************* Navigating to Categories Page **********
+12/18/2020 05:26:40 PM: INFO: ************* TC_addCategory_008 **********
+12/18/2020 05:26:48 PM: INFO: ************* Login successful **********
+12/18/2020 05:26:48 PM: INFO: ************* Navigating to Catalog Page **********
+12/18/2020 05:26:48 PM: INFO: ************* Navigating to Categories Page **********
+12/18/2020 05:53:56 PM: INFO: ************* TC_addCategory_008 **********
+12/18/2020 05:54:04 PM: INFO: ************* Login successful **********
+12/18/2020 05:54:04 PM: INFO: ************* Navigating to Catalog Page **********
+12/18/2020 05:54:04 PM: INFO: ************* Navigating to Categories Page **********
+12/18/2020 05:55:42 PM: INFO: ************* TC_addCategory_008 **********
+12/18/2020 05:55:49 PM: INFO: ************* Login successful **********
+12/18/2020 05:55:49 PM: INFO: ************* Navigating to Catalog Page **********
+12/18/2020 05:55:49 PM: INFO: ************* Navigating to Categories Page **********
+12/18/2020 06:03:12 PM: INFO: ************* TC_addCategory_008 **********
+12/18/2020 06:03:19 PM: INFO: ************* Login successful **********
+12/18/2020 06:03:19 PM: INFO: ************* Navigating to Catalog Page **********
+12/18/2020 06:03:19 PM: INFO: ************* Navigating to Categories Page **********
+12/18/2020 06:06:35 PM: INFO: ************* TC_addCategory_008 **********
+12/18/2020 06:06:42 PM: INFO: ************* Login successful **********
+12/18/2020 06:06:42 PM: INFO: ************* Navigating to Catalog Page **********
+12/18/2020 06:06:42 PM: INFO: ************* Navigating to Categories Page **********
+12/18/2020 06:07:15 PM: INFO: ************* TC_addCategory_008 **********
+12/18/2020 06:07:22 PM: INFO: ************* Login successful **********
+12/18/2020 06:07:22 PM: INFO: ************* Navigating to Catalog Page **********
+12/18/2020 06:07:22 PM: INFO: ************* Navigating to Categories Page **********
+12/18/2020 06:11:27 PM: INFO: ************* TC_addCategory_008 **********
+12/18/2020 06:11:35 PM: INFO: ************* Login successful **********
+12/18/2020 06:11:35 PM: INFO: ************* Navigating to Catalog Page **********
+12/18/2020 06:11:35 PM: INFO: ************* Navigating to Categories Page **********
+12/18/2020 06:15:29 PM: INFO: ************* TC_addCategory_008 **********
+12/18/2020 06:15:36 PM: INFO: ************* Login successful **********
+12/18/2020 06:15:36 PM: INFO: ************* Navigating to Catalog Page **********
+12/18/2020 06:15:36 PM: INFO: ************* Navigating to Categories Page **********
+12/18/2020 06:19:03 PM: INFO: ************* TC_addCategory_008 **********
+12/18/2020 06:19:10 PM: INFO: ************* Login successful **********
+12/18/2020 06:19:10 PM: INFO: ************* Navigating to Catalog Page **********
+12/18/2020 06:19:10 PM: INFO: ************* Navigating to Categories Page **********
+12/18/2020 09:30:16 PM: INFO: ************* TC_addCategory_008 **********
+12/18/2020 09:30:23 PM: INFO: ************* Login successful **********
+12/18/2020 09:30:23 PM: INFO: ************* Navigating to Catalog Page **********
+12/18/2020 09:30:23 PM: INFO: ************* Navigating to Categories Page **********
+12/18/2020 09:48:26 PM: INFO: ************* TC_addCategory_008 **********
+12/18/2020 09:48:33 PM: INFO: ************* Login successful **********
+12/18/2020 09:48:33 PM: INFO: ************* Navigating to Catalog Page **********
+12/18/2020 09:48:33 PM: INFO: ************* Navigating to Categories Page **********
+12/18/2020 09:50:20 PM: INFO: ************* TC_addCategory_008 **********
+12/18/2020 09:50:28 PM: INFO: ************* Login successful **********
+12/18/2020 09:50:28 PM: INFO: ************* Navigating to Catalog Page **********
+12/18/2020 09:50:28 PM: INFO: ************* Navigating to Categories Page **********
+12/18/2020 09:51:43 PM: INFO: ************* TC_addCategory_008 **********
+12/18/2020 09:51:50 PM: INFO: ************* Login successful **********
+12/18/2020 09:51:50 PM: INFO: ************* Navigating to Catalog Page **********
+12/18/2020 09:51:50 PM: INFO: ************* Navigating to Categories Page **********
+12/18/2020 10:08:04 PM: INFO: ************* TC_addCategory_008 **********
+12/18/2020 10:08:13 PM: INFO: ************* Login successful **********
+12/18/2020 10:08:13 PM: INFO: ************* Navigating to Catalog Page **********
+12/18/2020 10:08:13 PM: INFO: ************* Navigating to Categories Page **********
+12/18/2020 10:20:17 PM: INFO: ************* TC_addCategory_008 **********
+12/18/2020 10:20:25 PM: INFO: ************* Login successful **********
+12/18/2020 10:20:25 PM: INFO: ************* Navigating to Catalog Page **********
+12/18/2020 10:20:25 PM: INFO: ************* Navigating to Categories Page **********
+12/18/2020 10:25:02 PM: INFO: ************* TC_addCategory_008 **********
+12/18/2020 10:25:11 PM: INFO: ************* Login successful **********
+12/18/2020 10:25:11 PM: INFO: ************* Navigating to Catalog Page **********
+12/18/2020 10:25:11 PM: INFO: ************* Navigating to Categories Page **********
+12/18/2020 10:33:09 PM: INFO: ************* TC_addCategory_008 **********
+12/18/2020 10:34:11 PM: INFO: ************* TC_addCategory_008 **********
+12/18/2020 10:34:18 PM: INFO: ************* Login successful **********
+12/18/2020 10:34:18 PM: INFO: ************* Navigating to Catalog Page **********
+12/18/2020 10:34:18 PM: INFO: ************* Navigating to Categories Page **********
+12/18/2020 10:35:45 PM: INFO: ************* TC_addCategory_008 **********
+12/18/2020 10:35:54 PM: INFO: ************* Login successful **********
+12/18/2020 10:35:54 PM: INFO: ************* Navigating to Catalog Page **********
+12/18/2020 10:35:54 PM: INFO: ************* Navigating to Categories Page **********
+12/18/2020 10:36:28 PM: INFO: ************* TC_addCategory_008 **********
+12/18/2020 10:36:36 PM: INFO: ************* Login successful **********
+12/18/2020 10:36:36 PM: INFO: ************* Navigating to Catalog Page **********
+12/18/2020 10:36:36 PM: INFO: ************* Navigating to Categories Page **********
+12/18/2020 10:37:04 PM: INFO: ************* TC_addCategory_008 **********
+12/18/2020 10:37:12 PM: INFO: ************* Login successful **********
+12/18/2020 10:37:12 PM: INFO: ************* Navigating to Catalog Page **********
+12/18/2020 10:37:12 PM: INFO: ************* Navigating to Categories Page **********
+12/18/2020 10:39:30 PM: INFO: ************* TC_addCategory_008 **********
+12/18/2020 10:39:38 PM: INFO: ************* Login successful **********
+12/18/2020 10:39:38 PM: INFO: ************* Navigating to Catalog Page **********
+12/18/2020 10:39:39 PM: INFO: ************* Navigating to Categories Page **********
+12/18/2020 10:42:20 PM: INFO: ************* TC_addCategory_008 **********
+12/18/2020 10:42:27 PM: INFO: ************* Login successful **********
+12/18/2020 10:42:27 PM: INFO: ************* Navigating to Catalog Page **********
+12/18/2020 10:42:27 PM: INFO: ************* Navigating to Categories Page **********
+12/18/2020 10:43:33 PM: INFO: ************* TC_addCategory_008 **********
+12/18/2020 10:43:42 PM: INFO: ************* Login successful **********
+12/18/2020 10:43:42 PM: INFO: ************* Navigating to Catalog Page **********
+12/18/2020 10:43:42 PM: INFO: ************* Navigating to Categories Page **********
