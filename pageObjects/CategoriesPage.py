@@ -28,8 +28,6 @@ class Categories:
     def setDisplayOrder(self, number):
         for num in range(number):
             self.driver.find_element_by_css_selector(self.txtDisplayOrder_css).click()
-            time.sleep(0.25)
-
 
     def switchToDescriptionFrame(self):
         iframe =self.driver.find_element_by_id(self.frame_id)
@@ -61,26 +59,18 @@ class Categories:
     def pageClick(self, page_num):
         pageBtn = self.driver.find_element_by_css_selector("[data-dt-idx='" + str(page_num) + "']")
         pageBtn.click()
-        #self.driver.find_element_by_link_text(str(page_num)).click()
 
     def checkList(self, exp_name):
         flag = False
         num_of_pages = self.getPages()
-        print("num of pages is " + str(len(num_of_pages)))
         for page in range(1, len(num_of_pages)-1): # don't include arrow buttons, loops through each page until Name is found in table
-            print("we are on page " + str(page))
             num_of_rows = self.getRows()
-            print("num of rows is "+ str(len(num_of_rows)))
             for item in range(1, len(num_of_rows) + 1):
                 act_name = self.driver.find_element_by_css_selector("#categories-grid > tbody > tr:nth-child(" + str(item) + ") > td:nth-child(2)").text
-                print(item, act_name)
                 if exp_name == act_name:
                     flag = True
-                    print("it works")
                     break
             self.pageClick(page + 1)
             time.sleep(2)
-
-
         return flag
 

@@ -30,6 +30,7 @@ class Test_addCategory_008:
         self.cp.clickCatalog()
         self.logger.info("************* Navigating to Categories Page **********")
         self.cp.clickCategories()
+        self.logger.info("************* Adding new category **********")
         self.cp.clickAddNew()
         self.cp.setName(self.exp_name)
         self.cp.switchToDescriptionFrame()
@@ -39,5 +40,7 @@ class Test_addCategory_008:
         self.cp.clickSave()
         flag =self.cp.checkList(self.exp_name)
         assert flag
+        self.logger.info("************* TC_addCategory_008 Finished **********")
+
 
 
