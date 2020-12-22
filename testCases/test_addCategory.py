@@ -41,6 +41,7 @@ class Test_addCategory_008:
         flag =self.cp.checkList(self.exp_name)
         assert flag
         self.logger.info("************* TC_addCategory_008 Finished **********")
+        self.driver.close()
 
 
 

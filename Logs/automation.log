@@ -410,3 +410,120 @@ l12/11/2020 03:06:55 PM: INFO: ---------------------- Test_001_Login -----------
 12/18/2020 11:11:54 PM: INFO: ************* Login successful **********
 12/18/2020 11:11:54 PM: INFO: ************* Navigating to Catalog Page **********
 12/18/2020 11:11:54 PM: INFO: ************* Navigating to Categories Page **********
+12/20/2020 07:41:37 PM: INFO: ************* TC_addCategory_008 **********
+12/20/2020 07:41:45 PM: INFO: ************* Login successful **********
+12/20/2020 07:41:45 PM: INFO: ************* Navigating to Catalog Page **********
+12/20/2020 07:41:45 PM: INFO: ************* Navigating to Categories Page **********
+12/20/2020 07:41:46 PM: INFO: ************* Adding new category **********
+12/20/2020 07:41:54 PM: INFO: ************* TC_addCategory_008 Finished **********
+12/22/2020 12:12:11 PM: INFO: ************* TC_addCategory_008 **********
+12/22/2020 12:12:11 PM: INFO: ********************** Verify Login Test **********************
+12/22/2020 12:12:11 PM: INFO: ---------------------- Test_001_Login ----------------------
+12/22/2020 12:12:11 PM: INFO: ********************** Verify Home Page Title **********************
+12/22/2020 12:12:11 PM: INFO: ************* Test_003_AddCustomer **********
+12/22/2020 12:12:14 PM: INFO: ********************** Home page Title test is passed **********************
+12/22/2020 12:12:18 PM: INFO: ************* SearchCustomerByName_005 **********
+12/22/2020 12:12:18 PM: INFO: ************* Login successful **********
+12/22/2020 12:12:18 PM: INFO: ******* Starting Add Customer Test **********
+12/22/2020 12:12:18 PM: INFO: ********************** Login test is passed **********************
+12/22/2020 12:12:19 PM: INFO: ************* Login successful **********
+12/22/2020 12:12:19 PM: INFO: ************* Navigating to Catalog Page **********
+12/22/2020 12:12:19 PM: INFO: ************* Navigating to Categories Page **********
+12/22/2020 12:12:20 PM: INFO: ************* Providing customer info **********
+12/22/2020 12:12:22 PM: INFO: ************* TC_SearchOrdersByEmail_006 **********
+12/22/2020 12:12:24 PM: INFO: ************* Login successful **********
+12/22/2020 12:12:24 PM: INFO: ******* Starting Search Customer By Name **********
+12/22/2020 12:12:25 PM: INFO: ---------------------- Test_002_DDT_Login ----------------------
+12/22/2020 12:12:29 PM: INFO: ************* Login successful **********
+12/22/2020 12:12:29 PM: INFO: ******* Navigating to Orders Page **********
+12/22/2020 12:12:29 PM: INFO: ************* searching customer by Name **********
+12/22/2020 12:12:30 PM: INFO: ******* Successfully landed on Orders Page **********
+12/22/2020 12:12:30 PM: INFO: ******* Searching Orders By Email **********
+12/22/2020 12:12:31 PM: INFO: ************* Saving customer info **********
+12/22/2020 12:12:31 PM: INFO: ********* Add customer validation started *****************
+12/22/2020 12:12:31 PM: INFO: ********* Add customer Test Passed *********
+12/22/2020 12:12:31 PM: INFO: ******* Ending Add customer test **********
+12/22/2020 12:12:31 PM: INFO: ************* TC_SearchOrdersByEmail_006 Finished **********
+12/22/2020 12:12:33 PM: INFO: *** Pass ***
+12/22/2020 12:12:34 PM: INFO: ***************  TC_SearchCustomerByName_005 Finished  *********** 
+12/22/2020 12:12:34 PM: INFO: ************* SearchCustomerByEmail_004 **********
+12/22/2020 12:12:37 PM: INFO: ************* TC_searchProductsByName_007 **********
+12/22/2020 12:12:39 PM: INFO: *** Pass ***
+12/22/2020 12:12:39 PM: INFO: ************* Login succesful **********
+12/22/2020 12:12:39 PM: INFO: ******* Starting Search Customer By Email **********
+12/22/2020 12:12:41 PM: INFO: ************* searching customer by emailID **********
+12/22/2020 12:12:44 PM: INFO: *** Pass ***
+12/22/2020 12:12:44 PM: INFO: ************* Login successful **********
+12/22/2020 12:12:44 PM: INFO: ************* Navigating to Products Page **********
+12/22/2020 12:12:45 PM: INFO: ************* Search for product **********
+12/22/2020 12:12:46 PM: INFO: ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+12/22/2020 12:12:49 PM: INFO: *** Pass ***
+12/22/2020 12:12:49 PM: INFO: *** Login DDT test passed ***
+12/22/2020 12:15:10 PM: INFO: ************* TC_addCategory_008 **********
+12/22/2020 12:15:17 PM: INFO: ************* Login successful **********
+12/22/2020 12:15:17 PM: INFO: ************* Navigating to Catalog Page **********
+12/22/2020 12:15:17 PM: INFO: ************* Navigating to Categories Page **********
+12/22/2020 12:15:18 PM: INFO: ************* Adding new category **********
+12/22/2020 12:15:28 PM: INFO: ************* TC_addCategory_008 Finished **********
+12/22/2020 12:18:21 PM: INFO: ************* Test_003_AddCustomer **********
+12/22/2020 12:18:28 PM: INFO: ************* Login successful **********
+12/22/2020 12:18:28 PM: INFO: ******* Starting Add Customer Test **********
+12/22/2020 12:18:31 PM: INFO: ************* Providing customer info **********
+12/22/2020 12:18:43 PM: INFO: ************* Saving customer info **********
+12/22/2020 12:18:43 PM: INFO: ********* Add customer validation started *****************
+12/22/2020 12:18:43 PM: INFO: ********* Add customer Test Passed *********
+12/22/2020 12:18:46 PM: INFO: ******* Ending Add customer test **********
+12/22/2020 12:21:18 PM: INFO: ************* Test_003_AddCustomer **********
+12/22/2020 12:21:26 PM: INFO: ************* Login successful **********
+12/22/2020 12:21:26 PM: INFO: ******* Starting Add Customer Test **********
+12/22/2020 12:21:28 PM: INFO: ************* Providing customer info **********
+12/22/2020 12:21:39 PM: INFO: ************* Saving customer info **********
+12/22/2020 12:21:39 PM: INFO: ********* Add customer validation started *****************
+12/22/2020 12:21:39 PM: INFO: ********* Add customer Test Passed *********
+12/22/2020 12:21:42 PM: INFO: ******* Ending Add customer test **********
+12/22/2020 12:22:20 PM: INFO: ************* TC_addCategory_008 **********
+12/22/2020 12:22:27 PM: INFO: ************* Login successful **********
+12/22/2020 12:22:27 PM: INFO: ************* Navigating to Catalog Page **********
+12/22/2020 12:22:27 PM: INFO: ************* Navigating to Categories Page **********
+12/22/2020 12:22:28 PM: INFO: ************* Adding new category **********
+12/22/2020 12:22:35 PM: INFO: ************* TC_addCategory_008 Finished **********
+12/22/2020 12:22:38 PM: INFO: ************* Test_003_AddCustomer **********
+12/22/2020 12:22:46 PM: INFO: ************* Login successful **********
+12/22/2020 12:22:46 PM: INFO: ******* Starting Add Customer Test **********
+12/22/2020 12:22:47 PM: INFO: ************* Providing customer info **********
+12/22/2020 12:22:58 PM: INFO: ************* Saving customer info **********
+12/22/2020 12:22:58 PM: INFO: ********* Add customer validation started *****************
+12/22/2020 12:22:59 PM: INFO: ********* Add customer Test Passed *********
+12/22/2020 12:22:59 PM: INFO: ******* Ending Add customer test **********
+12/22/2020 12:23:02 PM: INFO: ---------------------- Test_001_Login ----------------------
+12/22/2020 12:23:02 PM: INFO: ********************** Verify Home Page Title **********************
+12/22/2020 12:23:03 PM: INFO: ********************** Home page Title test is passed **********************
+12/22/2020 12:23:07 PM: INFO: ********************** Verify Login Test **********************
+12/22/2020 12:23:12 PM: INFO: ********************** Login test is passed **********************
+12/22/2020 12:23:15 PM: INFO: ---------------------- Test_002_DDT_Login ----------------------
+12/22/2020 12:23:26 PM: INFO: *** Pass ***
+12/22/2020 12:23:32 PM: INFO: *** Pass ***
+12/22/2020 12:23:38 PM: INFO: *** Pass ***
+12/22/2020 12:23:43 PM: INFO: *** Pass ***
+12/22/2020 12:23:43 PM: INFO: *** Login DDT test passed ***
+12/22/2020 12:23:46 PM: INFO: ************* SearchCustomerByEmail_004 **********
+12/22/2020 12:23:54 PM: INFO: ************* Login succesful **********
+12/22/2020 12:23:54 PM: INFO: ******* Starting Search Customer By Email **********
+12/22/2020 12:23:56 PM: INFO: ************* searching customer by emailID **********
+12/22/2020 12:24:01 PM: INFO: ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+12/22/2020 12:24:05 PM: INFO: ************* SearchCustomerByName_005 **********
+12/22/2020 12:24:13 PM: INFO: ************* Login successful **********
+12/22/2020 12:24:13 PM: INFO: ******* Starting Search Customer By Name **********
+12/22/2020 12:24:16 PM: INFO: ************* searching customer by Name **********
+12/22/2020 12:24:22 PM: INFO: ***************  TC_SearchCustomerByName_005 Finished  *********** 
+12/22/2020 12:24:25 PM: INFO: ************* TC_SearchOrdersByEmail_006 **********
+12/22/2020 12:24:32 PM: INFO: ************* Login successful **********
+12/22/2020 12:24:32 PM: INFO: ******* Navigating to Orders Page **********
+12/22/2020 12:24:33 PM: INFO: ******* Successfully landed on Orders Page **********
+12/22/2020 12:24:33 PM: INFO: ******* Searching Orders By Email **********
+12/22/2020 12:24:34 PM: INFO: ************* TC_SearchOrdersByEmail_006 Finished **********
+12/22/2020 12:24:37 PM: INFO: ************* TC_searchProductsByName_007 **********
+12/22/2020 12:24:44 PM: INFO: ************* Login successful **********
+12/22/2020 12:24:44 PM: INFO: ************* Navigating to Products Page **********
+12/22/2020 12:24:46 PM: INFO: ************* Search for product **********
+12/22/2020 12:24:46 PM: INFO: ************* TC_searchProductsByName_007 Finished **********

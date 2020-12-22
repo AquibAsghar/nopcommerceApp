@@ -38,7 +38,6 @@ class Test_SearchCustomerByEmail_004:
         searchcust.clickSearch()
         time.sleep(5)
         status=searchcust.searchCustomerByEmail("victoria_victoria@nopCommerce.com")
-        self.driver.close()
         assert True == status
         self.logger.info("***************  TC_SearchCustomerByEmail_004 Finished  *********** ")
         self.driver.close()
